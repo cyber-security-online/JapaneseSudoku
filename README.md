@@ -1,1 +1,1 @@
-# JapaneseSudoku
+# Japanese Sudoku
